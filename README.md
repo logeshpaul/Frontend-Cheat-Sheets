@@ -11,7 +11,7 @@ Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Shee
 
 ![HTML5 Security Cheat Sheet](https://raw.githubusercontent.com/gokulkrishh/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet")
 
-Download: [PNG](https://raw.githubusercontent.com/gokulkrishh/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet.png)
+Download: [PNG](https://raw.githubusercontent.com/gokulkrishh/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png)
 
 CSS
 ----
