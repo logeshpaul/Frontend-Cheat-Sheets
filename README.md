@@ -9,7 +9,7 @@ Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Shee
 
 **HTML5 Security cheat sheet by _owasp_**
 
-![HTML5 Tag Cheat Sheet](https://raw.githubusercontent.com/gokulkrishh/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet.png "HTML5 Security Cheat Sheet")
+![HTML5 Security Cheat Sheet](/home/gokul/practises/Frontend-Cheat-Sheets/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet")
 
 Download: [PNG](https://raw.githubusercontent.com/gokulkrishh/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet.png)
 
