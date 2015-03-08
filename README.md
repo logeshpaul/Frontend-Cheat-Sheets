@@ -9,9 +9,9 @@ Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Shee
 
 **HTML5 Security cheat sheet by _owasp_**
 
-![HTML5 Tag Cheat Sheet]("HTML5 Security Cheat Sheet")
+![HTML5 Tag Cheat Sheet](https://github.com/gokulkrishh/Frontend-Cheat-Sheets/raw/master/images/HTML5%20Security%20Cheat%20Sheet.png "HTML5 Security Cheat Sheet")
 
-Download: [PDF]() | [PNG]()
+Download: [PDF](https://raw.githubusercontent.com/gokulkrishh/Frontend-Cheat-Sheets/master/download/HTML5%20Security%20Cheat%20Sheet.pdf) | [PNG](https://github.com/gokulkrishh/Frontend-Cheat-Sheets/raw/master/images/HTML5%20Security%20Cheat%20Sheet.png)
 
 CSS
 ----
