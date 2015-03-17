@@ -35,6 +35,14 @@ Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Shee
 
 Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/css3-cheat-sheet.pdf)
 
+**WebKit CSS3 Cheat Sheet by _Sencha_**
+
+![WebKit CSS3 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/webkit-css3-cheat-sheet.png "WebKit CSS3 Cheat Sheet")
+
+Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/webkit-css3-cheat-sheet.pdf)
+
+
+
 Javascript
 ----------
 
