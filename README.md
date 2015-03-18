@@ -42,7 +42,6 @@ Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Shee
 Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/webkit-css3-cheat-sheet.pdf)
 
 
-
 Javascript
 ----------
 
@@ -51,6 +50,17 @@ Javascript
 ![Javascript Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javascript-cheatsheet-preview.png "Javascript Cheat Sheet")
 
 Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-cheat-sheet.pdf)
+
+
+Gulp
+----
+
+**Gulp Cheat Sheet by _Opensource Cafe_**
+
+![Gulp Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/gulp-js-preview.png "Gulp Cheat Sheet")
+
+Download: [PDF 1](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/gulp-js-p1.pdf) | [PDF 2](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/gulp-js-p2.pdf)
+
 
 Contributions
 -------------
