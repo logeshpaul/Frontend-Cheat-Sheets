@@ -1,72 +1,38 @@
 HTML
 ----
 
-**HTML5 Tag cheat sheet by _Websitesetup.org_**
+| Description | Author | Download |
+| ----------- | ------ | ---------|
+| **HTML5 Tag cheat sheet** ![HTML5 Tag Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-cheatsheet-preview.png "HTML5 Tag Cheat Sheet") | _Websitesetup.org_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-cheat-sheet.pdf), [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-cheat-sheet.png) |
+| **HTML5 Canvas cheat sheet** ![HTML5 Canvas Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-canvas-cheat-sheet=preview.png "HTML5 Canvas Cheat Sheet") | _nihilogic.dk_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5_Canvas_Cheat_Sheet.pdf) |
+| **HTML5 Security cheat sheet** ![HTML5 Security Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet") | _owasp_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png) |
+| **HTML5 Element Flowchart** ![HTML5 Element Flowchart](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-flow-chart-preview.png "HTML5 Element Flowchart") | _HTML5 Doctor_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/html5-flowchart.pdf) |
 
-![HTML5 Tag Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-cheatsheet-preview.png "HTML5 Tag Cheat Sheet")
-
-Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-cheat-sheet.pdf) | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-cheat-sheet.png)
-
-**HTML5 Canvas cheat sheet by _nihilogic.dk_**
-
-![HTML5 Canvas Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-canvas-cheat-sheet=preview.png "HTML5 Canvas Cheat Sheet")
-
-Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5_Canvas_Cheat_Sheet.pdf)
-
-
-**HTML5 Security cheat sheet by _owasp_**
-
-![HTML5 Security Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet")
-
-Download: [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png)
-
-
-**HTML5 Element Flowchart by _HTML5 Doctor_**
-
-![HTML5 Element Flowchart](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-flow-chart-preview.png "HTML5 Element Flowchart")
-
-Download: [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/html5-flowchart.pdf)
 
 CSS
 ----
 
-**CSS2 cheat sheet by _Woorkup_**
-
-![CSS2 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/css2-cheatsheet-preview.png "CSS2 Cheat Sheet")
-
-Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/CSS2-Visual-Cheat-Sheet.pdf)
-
-**CSS3 cheat sheet by _Smashing Magazine_**
-
-![CSS3 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/css3-cheatsheet-preview.png "CSS3 Cheat Sheet")
-
-Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/css3-cheat-sheet.pdf)
-
-**WebKit CSS3 Cheat Sheet by _Sencha_**
-
-![WebKit CSS3 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/webkit-css3-cheat-sheet.png "WebKit CSS3 Cheat Sheet")
-
-Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/webkit-css3-cheat-sheet.pdf)
+| Description | Author | Download |
+| ----------- | ------ | ---------|
+| **CSS2 Cheat Sheet** ![CSS2 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/css2-cheatsheet-preview.png "CSS2 Cheat Sheet") | _Woorkup_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/CSS2-Visual-Cheat-Sheet.pdf) |
+| **CSS3 Cheat Sheet** ![CSS3 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/css3-cheatsheet-preview.png "CSS3 Cheat Sheet") | _Smashing Magazine_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/css3-cheat-sheet.pdf) |
+| **WebKit CSS3 Cheat Sheet** ![WebKit CSS3 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/webkit-css3-cheat-sheet.png "WebKit CSS3 Cheat Sheet") | _Sencha_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/webkit-css3-cheat-sheet.pdf) |
 
 
 Javascript
 ----------
 
-**JavaScript Cheat Sheet by _Dave Child_**
-
-![Javascript Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javascript-cheatsheet-preview.png "Javascript Cheat Sheet")
-
-Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-cheat-sheet.pdf)
+| Description | Author | Download |
+| ----------- | ------ | ---------|
+| **JavaScript Cheat Sheet** ![Javascript Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javascript-cheatsheet-preview.png "Javascript Cheat Sheet") | _Dave Child_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-cheat-sheet.pdf) |
 
 
 Gulp
 ----
 
-**Gulp Cheat Sheet by _Opensource Cafe_**
-
-![Gulp Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/gulp-js-preview.png "Gulp Cheat Sheet")
-
-Download: [PDF 1](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/gulp-js-p1.pdf) | [PDF 2](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/gulp-js-p2.pdf)
+| Description | Author | Download |
+| ----------- | ------ | ---------|
+| **Gulp Work Flow Sheet** ![Gulp Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/gulp-js-preview.png "Gulp Cheat Sheet") | _Opensource Cafe_ | [PDF 1](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/gulp-js-p1.pdf), [PDF 2](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/gulp-js-p2.pdf) |
 
 
 Contributions
