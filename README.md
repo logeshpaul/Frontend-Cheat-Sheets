@@ -20,6 +20,13 @@ Download: [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Shee
 
 Download: [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png)
 
+
+**HTML5 Element Flowchart by _HTML5 Doctor_**
+
+![HTML5 Element Flowchart](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-flow-chart-preview.png "HTML5 Element Flowchart")
+
+Download: [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/html5-flowchart.pdf)
+
 CSS
 ----
 
