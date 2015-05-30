@@ -4,10 +4,10 @@ HTML
 | Title                          | Author | Download |
 | ------------------------------ | ------ | ---------|
 | **HTML5 Tag cheat sheet**      |        |          |
-| ![HTML5 Tag Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-cheatsheet-preview.png "HTML5 Tag Cheat Sheet") | _Websitesetup.org_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-cheat-sheet.pdf), [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-cheat-sheet.png) |
+| ![HTML5 Tag Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-cheatsheet-preview.png "HTML5 Tag Cheat Sheet") | _Websitesetup.org_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-cheat-sheet.pdf), [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/html5-cheat-sheet.png) |
 |                                |        |          |
 | **HTML5 Canvas cheat sheet**   |        |          |
-| ![HTML5 Canvas Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-canvas-cheat-sheet=preview.png "HTML5 Canvas Cheat Sheet") | _nihilogic.dk_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5_Canvas_Cheat_Sheet.pdf) |
+| ![HTML5 Canvas Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-canvas-cheat-sheet-preview.png "HTML5 Canvas Cheat Sheet") | _nihilogic.dk_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5_Canvas_Cheat_Sheet.pdf) |
 |                                |        |          |
 | **HTML5 Security cheat sheet** |        |          |
 | ![HTML5 Security Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet") | _owasp_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png) |
