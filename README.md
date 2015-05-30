@@ -9,11 +9,11 @@ HTML
 | **HTML5 Canvas cheat sheet**   |        |          |
 | ![HTML5 Canvas Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-canvas-cheat-sheet-preview.png "HTML5 Canvas Cheat Sheet") | _nihilogic.dk_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5_Canvas_Cheat_Sheet.pdf) |
 |                                |        |          |
-| **HTML5 Security cheat sheet** |        |          |
-| ![HTML5 Security Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet") | _owasp_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png) |
-|                                |        |          |
 | **HTML5 Element Flowchart**    |        |          |
 | ![HTML5 Element Flowchart](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-flow-chart-preview.png "HTML5 Element Flowchart") | _HTML5 Doctor_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/html5-flowchart.pdf) |
+|                                |        |          |
+| **HTML5 Security cheat sheet** |        |          |
+| ![HTML5 Security Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet") | _owasp_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png) |
 
 
 CSS
@@ -29,15 +29,21 @@ CSS
 |                             |        |          |
 | **WebKit CSS3 Cheat Sheet** |        |          |
 | ![WebKit CSS3 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/webkit-css3-cheat-sheet.png "WebKit CSS3 Cheat Sheet") | _Sencha_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/webkit-css3-cheat-sheet.pdf) |
+|                             |        |          |
+| **CSS Quick Reference**     |        |          |
+| ![CSS Quick Reference](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/css-quick-reference.png "CSS Quick Reference") | _Explain That_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/css-quick-reference.pdf) |
 
 
 Javascript
 ----------
 
-| Title                      | Author | Download |
-| -------------------------- | ------ | ---------|
-| **JavaScript Cheat Sheet** |        |          |
+| Title                           | Author | Download |
+| ------------------------------- | ------ | ---------|
+| **JavaScript Cheat Sheet**      |        |          |
 | ![Javascript Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javascript-cheatsheet-preview.png "Javascript Cheat Sheet") | _Dave Child_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-cheat-sheet.pdf) |
+|                                 |        |          |
+| **JavaScript Quick Reference**  |        |          |
+| ![JavaScript Quick Reference](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javscript-quick-reference.png "JavaScript Quick Reference") | _Explain That_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-quick-reference.pdf) |
 
 
 Gulp
