@@ -1,10 +1,11 @@
 A curated list of cheat sheets you need it for your frontend development.
 
-### Contents
+# Contents
 
 - [HTML](#html)
 - [CSS](#css)
 - [Javascript](#javascript)
+- [Version Control](#version-control)
 - [Task Runner](#task-runner)
 - [Accessability](#accessability)
 
