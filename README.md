@@ -55,6 +55,14 @@ Javascript
 | **JavaScript Quick Reference**  |        |          |
 | ![JavaScript Quick Reference](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javscript-quick-reference.png "JavaScript Quick Reference") | _Explain That_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-quick-reference.pdf) |
 
+Version Control
+---------------
+
+| Title                    | Author | Download |
+| ------------------------ | ------ | ---------|
+| **Git Cheatsheet** |        |          |
+| ![Git Cheatsheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/git-cheatsheet-preview.png "Git Cheatsheet") | _Tower_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/Git-CheatSheet.pdf) |
+
 
 Task Runner
 -----------
