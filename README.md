@@ -1,17 +1,17 @@
 A curated list of cheat sheets you need it for your frontend development.
 
-# Contents
+## Contents
 
 - [HTML](#html)
 - [CSS](#css)
 - [Javascript](#javascript)
+- [jQuery](#jquery)
 - [Version Control](#version-control)
 - [Task Runner](#task-runner)
-- [Accessability](#accessability)
+- [Accessibility](#accessibility)
 
 HTML
 ----
-
 | Title                          | Author | Download |
 | ------------------------------ | ------ | ---------|
 | **HTML5 Tag cheat sheet**      |        |          |
@@ -26,10 +26,10 @@ HTML
 | **HTML5 Security cheat sheet** |        |          |
 | ![HTML5 Security Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet") | _owasp_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png) |
 
+**[⬆ back to top](#contents)**
 
 CSS
 ---
-
 | Title                       | Author | Download |
 | --------------------------- | ------ | ---------|
 | **CSS2 Cheat Sheet**        |        |          |
@@ -44,10 +44,10 @@ CSS
 | **CSS Quick Reference**     |        |          |
 | ![CSS Quick Reference](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/css-quick-reference.png "CSS Quick Reference") | _Explain That_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/css-quick-reference.pdf) |
 
+**[⬆ back to top](#contents)**
 
 Javascript
 ----------
-
 | Title                           | Author | Download |
 | ------------------------------- | ------ | ---------|
 | **JavaScript Cheat Sheet**      |        |          |
@@ -56,35 +56,46 @@ Javascript
 | **JavaScript Quick Reference**  |        |          |
 | ![JavaScript Quick Reference](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javscript-quick-reference.png "JavaScript Quick Reference") | _Explain That_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-quick-reference.pdf) |
 
+**[⬆ back to top](#contents)**
+
+jQuery
+------
+| Title                           | Author | Download |
+| ------------------------------- | ------ | ---------|
+| **jQuery 1.7 Cheat Sheet**      |        |          |
+| ![jQuery 1.7 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/jquery-1.7-cheatsheet-preview.png "jQuery 1.7 Cheat Sheet") | _Woorkup_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/jQuery-1.7-Visual-Cheat-Sheet.pdf) |
+
+**[⬆ back to top](#contents)**
+
 Version Control
 ---------------
-
 | Title                    | Author | Download |
 | ------------------------ | ------ | ---------|
 | **Git Cheatsheet** |        |          |
 | ![Git Cheatsheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/git-cheatsheet-preview.png "Git Cheatsheet") | _Tower_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/Git-CheatSheet.pdf) |
 
+**[⬆ back to top](#contents)**
 
 Task Runner
 -----------
-
 | Title                    | Author | Download |
 | ------------------------ | ------ | ---------|
 | **Gulp Work Flow Sheet** |        |          |
 | ![Gulp Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/gulp-js-preview.png "Gulp Cheat Sheet") | _Opensource Cafe_ | [PDF 1](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/gulp-js-p1.pdf), [PDF 2](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/gulp-js-p2.pdf) |
 
+**[⬆ back to top](#contents)**
 
-Accessability
+Accessibility
 -------------
-
 | Title                    | Author | Download |
 | ------------------------ | ------ | ---------|
-| **Accessability Cheatsheet** |        |          |
-| ![Accessibility Cheatsheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/accessibility-cheatsheet-preview.png "Accessability Cheatsheet") | _bitsofco.de_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/The-Accessibility-Cheatsheet.pdf) |
+| **Accessibility Cheatsheet** |        |          |
+| ![Accessibility Cheatsheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/accessibility-cheatsheet-preview.png "Accessibility Cheatsheet") | _bitsofco.de_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/The-Accessibility-Cheatsheet.pdf) |
+
+**[⬆ back to top](#contents)**
 
 Contributions
 -------------
-
 Contribution would be of great help create a nice list
 
 * Fork the project
@@ -94,7 +105,3 @@ Contribution would be of great help create a nice list
 **Active Contributors**
 
 [![Logesh Paul](https://avatars3.githubusercontent.com/u/41541?v=3&s=72)](https://github.com/logeshpaul) [![Gokulakrishnan](https://avatars0.githubusercontent.com/u/2944237?v=3&s=72)](https://github.com/gokulkrishh)
-
-
-
-
