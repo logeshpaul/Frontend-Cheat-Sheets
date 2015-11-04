@@ -21,7 +21,7 @@ HTML
 | ![HTML5 Canvas Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-canvas-cheat-sheet-preview.png "HTML5 Canvas Cheat Sheet") | _nihilogic.dk_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5_Canvas_Cheat_Sheet.pdf) |
 |                                |        |          |
 | **HTML5 Element Flowchart**    |        |          |
-| ![HTML5 Element Flowchart](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-flow-chart-preview.png "HTML5 Element Flowchart") | _HTML5 Doctor_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/html5-flowchart.pdf) |
+| ![HTML5 Element Flowchart](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-flow-chart-preview.png "HTML5 Element Flowchart") | _HTML5 Doctor_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/html5-flowchart.pdf) |
 |                                |        |          |
 | **HTML5 Security cheat sheet** |        |          |
 | ![HTML5 Security Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet") | _owasp_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png) |
