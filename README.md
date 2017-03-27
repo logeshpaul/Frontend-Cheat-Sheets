@@ -50,11 +50,15 @@ Javascript
 ----------
 | Title                           | Author | Download |
 | ------------------------------- | ------ | ---------|
+| **ES6 Cheat Sheet**             |        |          |
+| ![ES6 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/es6-cheat-sheet-preview.png "ES6 Cheat Sheet") | _Toptal_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/es6-cheat-sheet.pdf) |
+|                                 |        |          |
 | **JavaScript Cheat Sheet**      |        |          |
 | ![Javascript Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javascript-cheatsheet-preview.png "Javascript Cheat Sheet") | _Dave Child_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-cheat-sheet.pdf) |
 |                                 |        |          |
 | **JavaScript Quick Reference**  |        |          |
 | ![JavaScript Quick Reference](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javscript-quick-reference.png "JavaScript Quick Reference") | _Explain That_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-quick-reference.pdf) |
+
 
 **[⬆ back to top](#contents)**
 
