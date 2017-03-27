@@ -64,6 +64,8 @@ jQuery
 | ------------------------------- | ------ | ---------|
 | **jQuery 1.7 Cheat Sheet**      |        |          |
 | ![jQuery 1.7 Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/jquery-1.7-cheatsheet-preview.png "jQuery 1.7 Cheat Sheet") | _Woorkup_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/jQuery-1.7-Visual-Cheat-Sheet.pdf) |
+| **jQuery Cheat Sheet by Website Setup**  |        |          |
+| ![jQuery Cheat Sheet by Website Setup](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/jquery-cheatsheet-website-setup-preview.png "jQuery Cheat Sheet by Website Setup") | _Website Setup_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/Jquery-Cheat-Sheet-WSU.png), [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/jquery-cheat-sheet-wsu.pdf) |
 
 **[⬆ back to top](#contents)**
 
