@@ -17,8 +17,11 @@ HTML
 | **HTML5 Tag cheat sheet**      |        |          |
 | ![HTML5 Tag Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-cheatsheet-preview.png "HTML5 Tag Cheat Sheet") | _Websitesetup.org_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-cheat-sheet.pdf), [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/html5-cheat-sheet.png) |
 |                                |        |          |
-| **HTML5 Canvas cheat sheet**   |        |          |
-| ![HTML5 Canvas Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-canvas-cheat-sheet-preview.png "HTML5 Canvas Cheat Sheet") | _nihilogic.dk_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5_Canvas_Cheat_Sheet.pdf) |
+| **HTML5 Canvas cheat sheet by Nihilogic**   |        |          |
+| ![HTML5 Canvas Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/html5-canvas-cheat-sheet-preview.png "Canvas Cheat Sheet") | _nihilogic.dk_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5_Canvas_Cheat_Sheet.pdf) |
+|                                |        |          |
+| **HTML Canvas cheat sheet** |        |          |
+| ![HTML5 Security Cheat Sheet](images/html5-canvas-cheat-sheet.png "Canvas Cheat Sheet") | _skilled.co_ | [PDF](download/HTML_Canvas_Cheatsheet.pdf), [PNG](download/HTML_Canvas_Cheatsheet.png) |
 |                                |        |          |
 | **HTML5 Element Flowchart**    |        |          |
 | ![HTML5 Element Flowchart](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-flow-chart-preview.png "HTML5 Element Flowchart") | _HTML5 Doctor_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/html5-flowchart.pdf) |
