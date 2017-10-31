@@ -46,6 +46,9 @@ CSS
 |                             |        |          |
 | **CSS Quick Reference**     |        |          |
 | ![CSS Quick Reference](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/css-quick-reference.png "CSS Quick Reference") | _Explain That_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/css-quick-reference.pdf) |
+|                             |        |          |
+| **FontAwesome Quick Refrence**     |        |          |
+| ![FontAwesome Quick Refrence](https://raw.githubusercontent.com/djraval/Frontend-Cheat-Sheets/master/images/FontAwesome.png "FontAwesome Quick Refrence") | fontawesome.bootstrapcheatsheets.com | [PDF](https://github.com/djraval/Frontend-Cheat-Sheets/raw/master/download/FontAwesome.pdf), [PNG](https://raw.githubusercontent.com/djraval/Frontend-Cheat-Sheets/master/images/FontAwesome.png) |
 
 **[⬆ back to top](#contents)**
 
@@ -61,7 +64,9 @@ Javascript
 |                                 |        |          |
 | **JavaScript Quick Reference**  |        |          |
 | ![JavaScript Quick Reference](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/javscript-quick-reference.png "JavaScript Quick Reference") | _Explain That_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/javascript-quick-reference.pdf) |
-
+|                             |        |          |
+| **ReactJS CheatSheet**     |        |          |
+| ![ReactJS CheatSheet](https://raw.githubusercontent.com/djraval/Frontend-Cheat-Sheets/master/images/ReactJS.png "ReactJS CheatSheet") | DevHints.IO | [PDF](https://github.com/djraval/Frontend-Cheat-Sheets/raw/master/download/ReactJS.pdf), [PNG](https://raw.githubusercontent.com/djraval/Frontend-Cheat-Sheets/master/images/ReactJS.png) |
 
 **[⬆ back to top](#contents)**
 
