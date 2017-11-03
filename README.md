@@ -119,3 +119,4 @@ Contribution would be of great help create a nice list
 **Active Contributors**
 
 [![Logesh Paul](https://avatars3.githubusercontent.com/u/41541?v=3&s=72)](https://github.com/logeshpaul) [![Gokulakrishnan](https://avatars0.githubusercontent.com/u/2944237?v=3&s=72)](https://github.com/gokulkrishh)
+[![Devarshi Raval](https://avatars1.githubusercontent.com/u/20377686?v=4&s=72)](https://github.com/djraval)
