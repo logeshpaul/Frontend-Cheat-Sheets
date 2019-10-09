@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<!--Heading tag -->
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+<!--Paragraph -->
+<p>This paragraph
+contains a lot of lines
+in the source code,
+but the browser
+ignores it</p>
+<!--Link -->
+<a href="https://www.github.com">This is a link</a>
+<!--Image tag -->
+<img src="https://www.google.com/search?q=github&rlz=1C1CHBD_enIN863IN863&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjj5p6Wyo_lAhVm7XMBHfdGCpoQ_AUIFCgD#" alt="Github">
+<!--Line break tag -->
+<p>This is<br>a paragraph<br>with line breaks.</p>
+<!-- Style attribute -->
+<h1 style="color:blue;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+<!-- bold-->
+<b>This text is bold</b>
+<!--Strong-->
+<strong>This text is strong</strong>
+<!-- italic text emphasized text-->
+<i>This text is italic</i>
+<em>This text is emphasized</em>
+<!-- this is small tag-->
+<h2>HTML <small>Small</small> Formatting</h2>
+<!-- Mark Element-->
+<h2>HTML <mark>Marked</mark> Formatting</h2>
+<!-- Del-->
+<p>My favorite color is <del>blue</del> red.</p>
+<!-- Subscript and Superscript-->
+<p>This is <sub>Subscripted</sub> text.</p>
+<p>This is <sup>Superscripted</sup> text.</p>
+<!-- q tag-->
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+<!-- Qouted text-->
+<p>Here is a quote from WWF's website:</p>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 50 years, WWF has been protecting the future of nature.
+The world's leading conservation organization,
+WWF works in 100 countries and is supported by
+1.2 million members in the United States and
+close to 5 million globally.
+</blockquote>
+<!-- abbr tag-->
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+<!-- address tag -->
+<address>
+Written by John Doe.<br>
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+<!-- cite tag-->
+<p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+<bdo dir="rtl">This text will be written from right to left</bdo>
+</body>
+</html>
