@@ -28,6 +28,9 @@ HTML
 |                                |        |          |
 | **HTML5 Security cheat sheet** |        |          |
 | ![HTML5 Security Cheat Sheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/HTML5-Security-Cheat-Sheet-preview.png "HTML5 Security Cheat Sheet") | _owasp_ | [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/HTML5-Security-Cheat-Sheet.png) |
+|                                |        |          |
+| **HTML5 Cheat Sheet** |        |          |
+| ![HTML5 Cheat Sheet](https://i.postimg.cc/8cYsGrMZ/html-cheat-sheet.png "HTML5 Cheat Sheet") | _Tower_ | [PDF](https://www.git-tower.com/learn/cheat-sheets/html) |
 
 **[⬆ back to top](#contents)**
 
@@ -67,6 +70,9 @@ Javascript
 |                             |        |          |
 | **ReactJS CheatSheet**     |        |          |
 | ![ReactJS CheatSheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/ReactJS.png "ReactJS CheatSheet") | DevHints.IO | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/ReactJS.pdf), [PNG](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/ReactJS.png) |
+|                             |        |          |
+| **JavaScript Cheat Sheet**     |        |          |
+| ![JavaScript Cheat Sheet](https://i.postimg.cc/Pq6CycNG/javascript-cheat-sheet.png "JavaScript Cheat Sheet") | _Tower_ | [PDF](https://www.git-tower.com/learn/cheat-sheets/javascript) |
 
 **[⬆ back to top](#contents)**
 
@@ -87,6 +93,9 @@ Version Control
 | ------------------------ | ------ | ---------|
 | **Git Cheatsheet** |        |          |
 | ![Git Cheatsheet](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/images/git-cheatsheet-preview.png "Git Cheatsheet") | _Tower_ | [PDF](https://raw.githubusercontent.com/logeshpaul/Frontend-Cheat-Sheets/master/download/Git-CheatSheet.pdf) |
+|                             |        |          |
+| **Working with Branches in Git Cheat Sheet**     |        |          |
+| ![Working with Branches in Git Cheat Sheet](https://i.postimg.cc/Fzkk7Z9M/git-branches-cheat-sheet.png "Working with Branches in Git Cheat Sheet") | _Tower_ | [PDF](https://www.git-tower.com/learn/cheat-sheets/git-branches) |
 
 **[⬆ back to top](#contents)**
 
